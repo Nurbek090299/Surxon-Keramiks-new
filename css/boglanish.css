@@ -148,25 +148,28 @@ body a, p, h1, h2, h3, h4, h5, h6 {
       margin: 10px;
       padding: 10px; }
       body .container-fluid .row .col-xl-10 .main-menu div h5 {
-        font-size: 18px; }
+        font-size: 14px; }
       body .container-fluid .row .col-xl-10 .main-menu div h6 {
         font-weight: bold;
-        margin: 5px 0; }
+        margin: 5px 0;
+        font-size: 12px; }
       body .container-fluid .row .col-xl-10 .main-menu div p {
-        font-size: 16px;
+        font-size: 10px;
         margin: 0; }
       body .container-fluid .row .col-xl-10 .main-menu div iframe {
-        height: 300px; }
+        height: 200px; }
   body .container-fluid footer .icon {
-    width: 12px !important;
-    height: 12px !important;
+    width: 10px !important;
+    height: 10px !important;
     margin-bottom: 5px; }
   body .container-fluid footer .menu-adress {
-    padding-top: 25px !important; }
+    padding: 8px !important;
+    padding-top: 16px !important; }
     body .container-fluid footer .menu-adress p, body .container-fluid footer .menu-adress b {
-      font-size: 8px; }
+      font-size: 6px;
+      margin-bottom: 0 !important; }
     body .container-fluid footer .menu-adress h5 {
-      font-size: 10px; }
+      font-size: 7px; }
     body .container-fluid footer .menu-adress a {
       font-size: 8px; }
   body .container-fluid footer .footer-nav nav {
@@ -174,14 +177,17 @@ body a, p, h1, h2, h3, h4, h5, h6 {
     padding-right: 0; }
     body .container-fluid footer .footer-nav nav ul li a {
       text-align: center;
-      font-size: 10px;
-      padding: 5px; }
+      font-size: 6px;
+      padding: 2px; }
+  body .container-fluid footer .col-4 {
+    padding: 0; }
   body .container-fluid footer .footer-right {
-    padding-left: 0; }
+    padding-right: 8px; }
     body .container-fluid footer .footer-right div {
-      padding: 8px 8px 8px 0 !important; }
+      padding: 8px 0 !important; }
       body .container-fluid footer .footer-right div ul li a, body .container-fluid footer .footer-right div ul li b {
-        font-size: 8px; } }
+        font-size: 6px;
+        padding: 0 !important; } }
 @media (min-width: 576.1px) and (max-width: 768px) {
   .navbar-responsive {
     display: flex !important; }

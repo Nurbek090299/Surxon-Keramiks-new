@@ -156,17 +156,14 @@ body a,p,h1,h2,h3,h4,h5,h6{
           margin: 20px;
           padding: 20px;
           P{
-            font-size: 16px;
-            font-family: Georgia;
+            font-size: 18px;
           }
           img{
-            border-radius: 40px;
             box-shadow: 0 0 10px #444444;
           }
           ul{
             li{
               font-size: 16px;
-              font-family: Georgia;
             }
           }
           img{
@@ -283,7 +280,6 @@ body a,p,h1,h2,h3,h4,h5,h6{
                 }
               }
               img{
-                height: 250px!important;
                 width: 100%;
               }
               padding: 10px;
@@ -292,11 +288,31 @@ body a,p,h1,h2,h3,h4,h5,h6{
                 margin: 10px 0;
                 font-size: 16px;
               }
+              h4{
+                font-size: 14px;
+              }
               ul{
                 li{
                   font-size: 16px;
                 }
 
+              }
+              table{
+                tbody{
+                  tr{
+                    td{
+                      font-size: 10px;
+                    }
+                  }
+                }
+              }
+              .row{
+                padding: 0;
+                margin: 5px;
+                .col-lg-6, .p-2{
+                  padding: 0!important;
+                  margin: 5px 0;
+                }
               }
 
             }
@@ -306,20 +322,22 @@ body a,p,h1,h2,h3,h4,h5,h6{
       }
       footer{
         .icon{
-          width: 12px!important;
-          height: 12px!important;
+          width: 10px!important;
+          height: 10px!important;
           margin-bottom: 5px;
         }
         .menu-adress{
-          padding-top: 25px!important;
+          padding: 8px!important;
+          padding-top: 16px!important;
           p,b{
-            font-size: 10px;
+            font-size: 6px;
+            margin-bottom: 0!important;
           }
           h5{
-            font-size: 12px;
+            font-size: 7px;
           }
           a{
-            font-size: 12px;
+            font-size: 8px;
           }
         }
         .footer-nav{
@@ -330,20 +348,25 @@ body a,p,h1,h2,h3,h4,h5,h6{
               li{
                 a{
                   text-align: center;
-                  font-size: 12px;
-                  padding: 5px;
+                  font-size: 6px;
+                  padding: 2px;
                 }
               }
             }
           }
         }
+        .col-4{
+          padding: 0 ;
+        }
         .footer-right{
+          padding-right: 8px;
           div{
-            padding: 8px!important;
+            padding: 8px 0 !important;
             ul{
               li{
                 a,b{
-                  font-size: 9px;
+                  font-size: 6px;
+                  padding: 0!important;
                 }
               }
             }
@@ -389,7 +412,7 @@ body a,p,h1,h2,h3,h4,h5,h6{
           }
           .main-menu{
             img{
-              height: 300px!important;
+              height: 100% !important
             }
             .box-group{
               .box{
