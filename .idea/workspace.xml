@@ -5,62 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abe53d49-a3b3-433d-a62d-1dc1f5241e6a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/23213c530d7625dc705eab08d14c2f85ba3e943c/BizHaqimizda.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/23213c530d7625dc705eab08d14c2f85ba3e943c/BizHaqimizda.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/23213c530d7625dc705eab08d14c2f85ba3e943c/boglanish.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/23213c530d7625dc705eab08d14c2f85ba3e943c/boglanish.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/23213c530d7625dc705eab08d14c2f85ba3e943c/fotogaleriya.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/23213c530d7625dc705eab08d14c2f85ba3e943c/fotogaleriya.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/23213c530d7625dc705eab08d14c2f85ba3e943c/main.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/23213c530d7625dc705eab08d14c2f85ba3e943c/main.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/23213c530d7625dc705eab08d14c2f85ba3e943c/product.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/23213c530d7625dc705eab08d14c2f85ba3e943c/product.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/23213c530d7625dc705eab08d14c2f85ba3e943c/yangiliklar.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/23213c530d7625dc705eab08d14c2f85ba3e943c/yangiliklar.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BizHaqimizda.html" beforeDir="false" afterPath="$PROJECT_DIR$/BizHaqimizda.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/boglanish.html" beforeDir="false" afterPath="$PROJECT_DIR$/boglanish.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brick.html" beforeDir="false" afterPath="$PROJECT_DIR$/brick.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/BizHaqimizda.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/BizHaqimizda.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/BizHaqimizda.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/BizHaqimizda.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/boglanish.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/boglanish.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/boglanish.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/boglanish.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fotogaleriya.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fotogaleriya.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fotogaleriya.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/fotogaleriya.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/product.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/product.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/product.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/product.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/yangiliklar.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/yangiliklar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/yangiliklar.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/yangiliklar.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fotogaleriya.html" beforeDir="false" afterPath="$PROJECT_DIR$/fotogaleriya.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/5930.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/5965.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_20181202_204359_370.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_20181204_101208_466.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_20181204_101213_062.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_20181210_141642_452.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_20181210_141644_503.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_20181210_141646_829.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_20181210_141648_664.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_20181210_141655_995.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_20181210_141710_739.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_20181210_141711_954.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_20181210_141714_994.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_20181210_141716_508.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_20181210_141723_455.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_20181210_141724_935.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_20181210_141727_729.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_20181210_141759_063.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_20190202_102256.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Logotip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Logotip.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ceramics.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/hqdefault.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photo_2020-02-27_09-29-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photo_2020-02-27_09-29-26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-tile.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-tile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/BIzHaqimizda.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/BIzHaqimizda.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/boglanish.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/boglanish.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/fotogaleriya.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/fotogaleriya.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/product.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/product.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/yangiliklar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/yangiliklar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangiliklar.html" beforeDir="false" afterPath="$PROJECT_DIR$/yangiliklar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +60,7 @@
       <workItem from="1651427760975" duration="15293000" />
       <workItem from="1651915801113" duration="601000" />
       <workItem from="1651923154331" duration="219000" />
-      <workItem from="1653386204722" duration="41376000" />
+      <workItem from="1653386204722" duration="42136000" />
     </task>
     <servers />
   </component>
