@@ -126,15 +126,17 @@ body a, p, h1, h2, h3, h4, h5, h6 {
             animation: btn 1.3s infinite ease-in; }
     .container-fluid .row .col-xl-10 .main-menu .card-deck .card:hover {
       box-shadow: 0 8px 15px #484848; }
-.container-fluid footer .menu-adress a {
-  text-decoration: none;
-  color: #F47822; }
-.container-fluid footer .footer-nav nav ul li :hover {
-  color: #F47822; }
-.container-fluid footer .footer-nav nav ul li a {
-  color: #808080; }
-.container-fluid footer .footer-right ul li b {
-  color: #F47822; }
+.container-fluid footer {
+  width: 100%; }
+  .container-fluid footer .menu-adress a {
+    text-decoration: none;
+    color: #F47822; }
+  .container-fluid footer .footer-nav nav ul li :hover {
+    color: #F47822; }
+  .container-fluid footer .footer-nav nav ul li a {
+    color: #808080; }
+  .container-fluid footer .footer-right ul li b {
+    color: #F47822; }
 
 .navbar-responsive {
   display: none !important;
